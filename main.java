@@ -5,6 +5,6 @@ public class main {
     }
 
     public static void hhhh(String[] args) {
-        System.out.println("fgh");
+        System.out.println("fgjjjjh");
     }
 }
