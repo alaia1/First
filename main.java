@@ -4,5 +4,7 @@ public class main {
         System.out.println("fgh");
     }
 
-
+    public static void hhhh(String[] args) {
+        System.out.println("fgh");
+    }
 }
