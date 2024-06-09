@@ -4,7 +4,5 @@ public class main {
         System.out.println("fgh");
     }
 
-    public static void delete(){
-        String test="erty";
-    }
+
 }
